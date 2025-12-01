@@ -1,0 +1,5 @@
+{
+  "name": "Repliq Dashboard",
+  "description": "A high-fidelity implementation of the Repliq sales engagement dashboard featuring detailed data tables, statistics tracking, and Gemini-powered insights.",
+  "requestFramePermissions": []
+}
